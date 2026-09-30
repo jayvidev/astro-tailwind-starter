@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://astrotailwind-starter.vercel.app">
-    <img src="./public/images/docs/readme.jpg" alt="Preview">
+    <img src="./docs/assets/readme.jpg" alt="Preview">
   </a>
   <p></p>
 </div>
